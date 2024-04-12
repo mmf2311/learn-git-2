@@ -140,3 +140,5 @@ Screenshot of a repository header showing the tabs. The "Settings" tab is highli
 In the "Code and automation" section of the sidebar, click  Branches.
 
 To the right of the branch protection rule you want to delete, click Delete.
+
+Update more details....
